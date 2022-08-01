@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Bugjira - Bug Tracking App
+
+Link to this app's API: TBD
+
+Bugjira is a bug tracker in the same vein as Bugzilla and Jira. The goal of this project is to create an alternative bug-tracking solution that is easy to use.
+
+Bugjira is a portmanteau of Bugzilla and Jira.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

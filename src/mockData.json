@@ -1,0 +1,22 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Create mock data",
+            "description": "Make mock data for initial use before backend API is established",
+            "status": "Resolved"
+        },
+        {
+            "id": 2,
+            "title": "Implement Read functionality",
+            "description": "Create a new page for viewing existing tasks",
+            "status": "Assigned"
+        },
+        {
+            "id": 3,
+            "title": "Create separate pages",
+            "description": "Create separate page from Home screen for viewing tasks",
+            "status": "Open"
+        }
+    ]
+}
