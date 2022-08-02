@@ -7,8 +7,8 @@ type Props = {
     status: string;
 }
 
-const Task: React.FC<Props> = (task: Props) => {
-    const { id, title, description, status } = task;
+function Task(props: Props) {
+    const { id, title, description, status } = props;
     return (
     <div>
         <h1>

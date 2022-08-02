@@ -1,8 +1,8 @@
 import React from 'react';
-import logo from './logo.svg';
-import {Link} from 'react-router-dom';
+import logo from '../logo.svg';
+import { Link } from 'react-router-dom';
 
-const HomePage = () => {
+function Home() {
     return (
         <header className="App-header">
             <img src={logo} className="App-logo" alt="logo" />
@@ -17,4 +17,4 @@ const HomePage = () => {
     );
 }
 
-export default HomePage;
+export default Home;

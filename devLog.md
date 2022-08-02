@@ -9,3 +9,7 @@
 - Added react-router-dom
 - Displays list of tasks from mock data
 - Routing added to Home page (`'/'`) and Tasks page (`'/tasks'`)
+
+2 August 2022
+- Rearranged file structure; folders are separated by route or feature
+- Minor clean up
